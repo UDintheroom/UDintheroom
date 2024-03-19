@@ -10,7 +10,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=UD's%20ROOM&fontSize=60&desc=Hello👋%20I'm%20web%20designer%20Yuri%20Choi!&descSize=18&fontAlignY=48)-->
 <br/>
 
-👋 Hi there! I'm Yuri Choi, a junior <b>web designer</b>. 💻 <br />
+👋 WELCOME to UD's room! <br />
+I'm Yuri Choi, a junior <b>web designer</b>. 💻 <br />
 I'm passionate about studying web design and front-end development, constantly refining my skills. 📝
 
 In my free time, I love playing games and drawing pictures. 🧩🖍 <br />
